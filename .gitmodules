@@ -1,0 +1,3 @@
+[submodule "authTestServer"]
+	path = authTestServer
+	url = git@github.com:Em01/authTestServer.git
